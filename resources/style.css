@@ -1,0 +1,109 @@
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+}
+.linki a:hover  {
+  text-decoration: none;
+  color:#67ADEF;
+}
+span a {
+  font-family: 'Press Start 2P', cursive;
+  color: white;
+  font-weight: bold;
+  font-size: 1em;
+}
+
+.header {
+  margin-top: 3em;
+}
+
+.logo {
+  font-family: 'Press Start 2P', cursive;
+  color: white;
+  font-weight: bold;
+  font-size: 1.3em;
+}
+
+.footer{
+  color:white;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer a {
+  color:white;
+}
+
+/*CONTACTO*/
+.contacto {
+  background-color: black;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1;
+}
+
+.contact-text {
+  font-size: 1.2em;
+  font-family: 'Press Start 2P', cursive;
+  margin-top:3em;
+  color:white;
+}
+.email {
+  font-size: 1.2em;
+  font-family: 'Press Start 2P', cursive;
+  margin-top: 3em;
+  color:white;
+}
+.iconos {
+  margin-top: 5em;
+}
+
+.iconos i  {
+  color:white;
+}
+
+/*ABOUT*/
+
+.about-text {
+  line-height: 2em;
+  font-family: 'Press Start 2P', cursive;
+  color:white;
+}
+
+.about-space {
+  margin-top: 8em;
+}
+/*CONTACT-TEXT*/
+.contact-text {
+  line-height: 1.5em;
+  font-family: 'Press Start 2P', cursive;
+  color:white;
+}
+/*PORTAFOLO*/
+
+.portafolio {
+  background-color: black;
+  min-width: 100%;
+  min-height: 100%;
+  position: absolute;
+}
+
+.texto-port {
+  font-size: 0.8em;
+  font-family: 'Press Start 2P', cursive;
+  color:white;
+}
+
+.vidz {
+  margin-left: -0.8em;
+  padding-left: 1em;
+}
