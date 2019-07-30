@@ -30,6 +30,8 @@ span a {
 }
 
 .footer{
+  font-family: 'Press Start 2P', cursive;
+  font-size: 0.5em;
   color:white;
   position: absolute;
   bottom: 0;
@@ -103,5 +105,8 @@ span a {
   color:white;
 }
 
-.vidz {
+.youtube-link {
+  font-family: 'Press Start 2P', cursive;
+  color:white;
+  font-size:0.6em;
 }
